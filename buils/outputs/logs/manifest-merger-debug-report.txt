@@ -1,0 +1,203 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/5cef9c0e9fd80d9078a6a4d2495f7eb7/jetified-zxing-1.9/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/f7fa931c10060cb31b4ececcd856b65d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/75fe1a0d0ea641341446dfd6b8974e96/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [me.dm7.barcodescanner:core:1.9] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/7ff91c940bb9b5b9400abb26e8e083a7/jetified-core-1.9/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/5c75bd7951d359a85775620c0170e49e/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/e27002105a9bdd38fe216ef919b747b9/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/850a3c84da944cc872764513edcd7120/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/92f8e3eea2413f9234d57f836e040f22/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/cb2cdf934d3d3e0441b52d1dc3cb2e6a/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/ad12b5d47f95c8d2598703c1b1f7c267/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/18e25bdaeb278667d7aef2960bdb2cf5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/495dc0f2fa247d616fe68db13bf5e07d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/8024d43f2ec98c58159e4490c7c84830/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/14bfd2f44a1567c658112bb55b76246b/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/f543223d8dd1217edab7f57e00d5e19d/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/10c23e4693f75e7c26502c252f3749d1/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/0408bc08863151ad5a41361bace418b5/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/223ae8e78f23f48ba5d96a1dcabe1834/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/e6db2a8ebafb4101960628e4b20a9462/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/98533a75c963d389d2db7b5a19727bc5/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/48d198bece9830d2bf28cd51b05742db/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/1cd7eff88f5e86d0249af2958bf465f0/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/aace0d5da73d2c817f12bb96d6698e5c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/929ec10604c047a76453df3294ada6ae/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/e2041232485bdf4d2a09c36930218fc5/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/0b3ed2b8b9ba103e713cc57e24141ba7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/80494d026c905f06e4c8b45b3569cb2d/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/c4e2469658fdd8801a5306110b0915fc/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/1d3d300991201f0272c309154f6a5e44/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/b483c59108b83b2c001374a9e1131636/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/28efee2bf1e9a77f569846ad27f8a168/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/54ec9a60a0f20829d9c5323f1ce0908c/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/0571339fd4cb74441b19561f6766bb98/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/0f91f258f9d0abaa0e56c019df47bd85/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:6:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:7:19-67
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:8:22-66
+application
+ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:11:5-30:19
+MERGED from [me.dm7.barcodescanner:zxing:1.9] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/5cef9c0e9fd80d9078a6a4d2495f7eb7/jetified-zxing-1.9/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/5cef9c0e9fd80d9078a6a4d2495f7eb7/jetified-zxing-1.9/AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/75fe1a0d0ea641341446dfd6b8974e96/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/75fe1a0d0ea641341446dfd6b8974e96/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/7ff91c940bb9b5b9400abb26e8e083a7/jetified-core-1.9/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/7ff91c940bb9b5b9400abb26e8e083a7/jetified-core-1.9/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/1cd7eff88f5e86d0249af2958bf465f0/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/1cd7eff88f5e86d0249af2958bf465f0/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/929ec10604c047a76453df3294ada6ae/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/929ec10604c047a76453df3294ada6ae/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/1cd7eff88f5e86d0249af2958bf465f0/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:15:9-43
+	android:icon
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:13:9-38
+	android:allowBackup
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.example.qrscanner.SplashScreen
+ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:theme
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:19:13-48
+	android:name
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.example.qrscanner.MainActivity
+ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:27:9-28:56
+	android:theme
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:28:13-44
+	android:name
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml:27:19-47
+uses-sdk
+INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml
+MERGED from [me.dm7.barcodescanner:zxing:1.9] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/5cef9c0e9fd80d9078a6a4d2495f7eb7/jetified-zxing-1.9/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/5cef9c0e9fd80d9078a6a4d2495f7eb7/jetified-zxing-1.9/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/f7fa931c10060cb31b4ececcd856b65d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/f7fa931c10060cb31b4ececcd856b65d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/75fe1a0d0ea641341446dfd6b8974e96/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/75fe1a0d0ea641341446dfd6b8974e96/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [me.dm7.barcodescanner:core:1.9] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/7ff91c940bb9b5b9400abb26e8e083a7/jetified-core-1.9/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/7ff91c940bb9b5b9400abb26e8e083a7/jetified-core-1.9/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/5c75bd7951d359a85775620c0170e49e/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/5c75bd7951d359a85775620c0170e49e/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/e27002105a9bdd38fe216ef919b747b9/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/e27002105a9bdd38fe216ef919b747b9/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/850a3c84da944cc872764513edcd7120/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/850a3c84da944cc872764513edcd7120/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/92f8e3eea2413f9234d57f836e040f22/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/92f8e3eea2413f9234d57f836e040f22/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/cb2cdf934d3d3e0441b52d1dc3cb2e6a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/cb2cdf934d3d3e0441b52d1dc3cb2e6a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/ad12b5d47f95c8d2598703c1b1f7c267/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/ad12b5d47f95c8d2598703c1b1f7c267/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/18e25bdaeb278667d7aef2960bdb2cf5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/18e25bdaeb278667d7aef2960bdb2cf5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/495dc0f2fa247d616fe68db13bf5e07d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/495dc0f2fa247d616fe68db13bf5e07d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/8024d43f2ec98c58159e4490c7c84830/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/8024d43f2ec98c58159e4490c7c84830/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/14bfd2f44a1567c658112bb55b76246b/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/14bfd2f44a1567c658112bb55b76246b/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/f543223d8dd1217edab7f57e00d5e19d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/f543223d8dd1217edab7f57e00d5e19d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/10c23e4693f75e7c26502c252f3749d1/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/10c23e4693f75e7c26502c252f3749d1/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/0408bc08863151ad5a41361bace418b5/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/0408bc08863151ad5a41361bace418b5/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/223ae8e78f23f48ba5d96a1dcabe1834/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/223ae8e78f23f48ba5d96a1dcabe1834/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/e6db2a8ebafb4101960628e4b20a9462/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/e6db2a8ebafb4101960628e4b20a9462/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/98533a75c963d389d2db7b5a19727bc5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/98533a75c963d389d2db7b5a19727bc5/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/48d198bece9830d2bf28cd51b05742db/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/48d198bece9830d2bf28cd51b05742db/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/1cd7eff88f5e86d0249af2958bf465f0/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/1cd7eff88f5e86d0249af2958bf465f0/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/aace0d5da73d2c817f12bb96d6698e5c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/aace0d5da73d2c817f12bb96d6698e5c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/929ec10604c047a76453df3294ada6ae/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/929ec10604c047a76453df3294ada6ae/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/e2041232485bdf4d2a09c36930218fc5/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/e2041232485bdf4d2a09c36930218fc5/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/0b3ed2b8b9ba103e713cc57e24141ba7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/0b3ed2b8b9ba103e713cc57e24141ba7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/80494d026c905f06e4c8b45b3569cb2d/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/80494d026c905f06e4c8b45b3569cb2d/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/c4e2469658fdd8801a5306110b0915fc/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/c4e2469658fdd8801a5306110b0915fc/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/1d3d300991201f0272c309154f6a5e44/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/1d3d300991201f0272c309154f6a5e44/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/b483c59108b83b2c001374a9e1131636/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/b483c59108b83b2c001374a9e1131636/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/28efee2bf1e9a77f569846ad27f8a168/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/28efee2bf1e9a77f569846ad27f8a168/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/54ec9a60a0f20829d9c5323f1ce0908c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/54ec9a60a0f20829d9c5323f1ce0908c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/0571339fd4cb74441b19561f6766bb98/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/0571339fd4cb74441b19561f6766bb98/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/0f91f258f9d0abaa0e56c019df47bd85/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jilpatel/.gradle/caches/transforms-2/files-2.1/0f91f258f9d0abaa0e56c019df47bd85/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jilpatel/Desktop/work/Android/QrScanner/app/src/main/AndroidManifest.xml
